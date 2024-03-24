@@ -6,7 +6,6 @@ build on the master branch. See .travis.yml for more.
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
                       http://maven.apache.org/xsd/settings-1.0.0.xsd">
-
   <servers>
     <server>
       <!-- Maven Central Deployment -->
@@ -15,5 +14,4 @@ build on the master branch. See .travis.yml for more.
       <password>${env.SONATYPE_PASSWORD}</password>
     </server>
   </servers>
-
 </settings>
