@@ -9,6 +9,9 @@ A Maven plugin for building and pushing Docker images.
 * [Setup](#setup)
   * [Specify build info in the POM](#specify-build-info-in-the-pom)
   * [Use a Dockerfile](#use-a-dockerfile)
+ 
+
+
 * [Usage](#usage)
   * [Bind Docker commands to Maven phases](#bind-docker-commands-to-maven-phases)
   * [Authenticating with private registries](#authenticating-with-private-registries)
