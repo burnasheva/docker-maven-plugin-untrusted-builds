@@ -36,6 +36,5 @@ You can build and test by following [instructions here][1].
   [1]: https://github.com/spotify/docker-maven-plugin#testing
   [2]: https://github.com/spotify/helios
   [3]: https://github.com/spotify/docker-client
-  [4]: https://github.com/spotify/docker-gc
   [5]: https://github.com/spotify/helios-skydns
   [6]: https://github.com/spotify/helios-consul
